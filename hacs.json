@@ -1,4 +1,6 @@
 {
-    "name": "ventoptimization",
-    "render_readme": true
+    "name": "Vent Optimization",
+    "render_readme": true,
+    "zip_release": true,
+    "filename": "ventoptimization.zip"
 }
